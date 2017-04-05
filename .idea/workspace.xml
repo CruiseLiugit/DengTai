@@ -248,7 +248,7 @@
       <option name="presentableId" value="Default" />
       <updated>1491382690019</updated>
       <workItem from="1491382698409" duration="833000" />
-      <workItem from="1491384218029" duration="832000" />
+      <workItem from="1491384218029" duration="877000" />
     </task>
     <task id="LOCAL-00001" summary="添加网站地图及产品分类文档">
       <created>1491384725849</created>
@@ -257,11 +257,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491384725849</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加网站地图及产品分类文档">
+      <created>1491385153328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1491385153328</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1665000" />
+    <option name="totallyTimeSpent" value="1710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="733" extended-state="0" />
