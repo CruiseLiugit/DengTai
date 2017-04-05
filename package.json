@@ -1,16 +1,16 @@
 {
   "name": "generate-pages",
   "version": "0.1.0",
-  "description": "多页面脚手架",
+  "description": "登钛官网静态页面",
   "author": "riskers",
   "bugs": {
-    "url": "https://github.com/fe-config/generate-pages/issues"
+    "url": "https://github.com/CruiseLiugit/DengTai.git/issues"
   },
   "license": "MIT",
-  "homepage": "https://github.com/fe-config/generate-pages",
+  "homepage": "https://github.com/CruiseLiugit/DengTai.git",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fe-config/generate-pages.git"
+    "url": "git+https://github.com/CruiseLiugit/DengTai.git"
   },
   "keywords": ["webpack", "generate-pages"],
   "scripts": {
